@@ -1,13 +1,9 @@
-package io.moneygom;
+package io.moneygom.lesson_64061;
 
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Hello world!
- *
- */
-public class App {
+public class Lesson_64061 {
     public static void main( String[] args ) {
         
         // int[][] board = {{0,0,0,0,0},{0,0,1,0,3},{0,2,5,0,1},{4,2,4,4,2},{3,5,1,3,1}};
