@@ -1,4 +1,4 @@
-package io.moneygom.lesson_64061;
+package io.moneygom.codingtest.level1.lesson_64061;
 
 import java.util.ArrayList;
 import java.util.List;

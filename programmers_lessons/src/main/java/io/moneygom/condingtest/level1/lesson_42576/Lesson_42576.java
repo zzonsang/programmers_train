@@ -1,4 +1,4 @@
-package io.moneygom.lesson_42576;
+package io.moneygom.codingtest.level1.lesson_42576;
 
 import java.util.Arrays;
 import java.util.HashMap;
